@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(255, 250, 250);
+}
+.headerimage{
+    position: relative;
+    height:200px;
+    width: 1350px;
+}
+.logo{
+    position: relative;
+    height: 70px;
+    width: 70px;
+    top: -90px;
+    left: 650px;
+}
+.theme{
+    color:black;
+    font-family: sans-serif;
+    position: relative;
+    top:-70px;
+    left: 460px;
+    font-size: 25px;
+}
+.sen1{
+    color:black;
+    font-family: sans-serif;
+    position: relative;
+    top:-80px;
+    left: 460px;
+    font-size: 12px;
+   
+}
+.sen2{
+    color:black;
+    font-family: sans-serif;
+    position: relative;
+    top:-60px;
+    left: 155px;
+    font-size: 12px;
+}
+.ios{
+    background-color: rgb(39, 180, 150);
+    color: white;
+    height: 20px;
+    width: 150px;
+    position: relative;
+    left:450px;
+    top: -40px;
+    border-radius: 50px;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+
+}
+.mac{
+    background-color: rgb(117, 39, 180);
+    color: white;
+    height: 20px;
+    width: 150px;
+    left: 200px;
+    position: relative;
+    top: -28px;
+    border-radius: 50px;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.head2{
+    
+}
