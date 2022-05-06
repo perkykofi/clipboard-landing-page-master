@@ -180,4 +180,18 @@ body{
     left: 530px;
     top:-200px; 
 }
+.blacklist{
+    position: relative;
+    left: 350px;
+    top:-100px; 
+}
+.icontext{
+    position: relative;
+    left: 600px;
+    top:-154px; 
+} 
+.iconpreview{
+    position: relative;
+    left: 850px;
+    top:-210px;
 }
