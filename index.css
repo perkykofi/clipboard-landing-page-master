@@ -22,7 +22,7 @@ body{
     font-size: 25px;
 }
 .sen1{
-    color:black;
+    color:gray;
     font-family: sans-serif;
     position: relative;
     top:-80px;
@@ -31,7 +31,7 @@ body{
    
 }
 .sen2{
-    color:black;
+    color:gray;
     font-family: sans-serif;
     position: relative;
     top:-60px;
@@ -57,14 +57,127 @@ body{
     color: white;
     height: 20px;
     width: 150px;
-    left: 200px;
+    left: 650px;
     position: relative;
-    top: -28px;
+    top: -80px;
     border-radius: 50px;
     align-content: center;
     text-align: center;
     padding: 10px;
 }
 .head2{
-    
+    color: black;
+    position: relative;
+    left: 500px;
+    top:-70px;
+   
+}
+.cli{
+    color: gray;
+    position: relative;
+    left: 400px;
+    top:-80px;
+
+}
+.sni{
+    color: gray;
+    position: relative;
+    left: -132px;
+    top:-65px;
+}
+.org{
+    color: gray;
+    position: relative;
+    left: -500px;
+    top:-52px;
+}
+.com{
+    position: relative;
+    width: 600px;
+}
+.quick{
+    position: relative;
+    right: -700px;
+    top:-450px;
+}
+.qui{
+    font-weight: 100em;}
+
+.eas{
+    color: gray;
+}
+.cat{
+    color: gray;
+}
+
+.icloud{
+    position: relative;
+    right: -700px;
+    top:-430px;
+}
+.complete{
+    position: relative;
+    right: -700px;
+    top:-400px;
+}
+.icl{
+    font-weight: 100em;}
+}
+.ins{
+    color: gray;
+}
+.all{
+    color: gray;
+}
+.ple{
+    font-weight: 100em;
+    font-size: 12px;
+}
+.ret{
+    color: gray;
+
+}
+.you{
+    color: gray;
+}
+.acc{
+    color: black;
+    position: relative;
+    left: 500px;
+    top:-250px; 
+    font-weight: 100px;
+    font-size: 30px;
+}
+.whe{
+    color:gray;
+    position: relative;
+    left: 400px;
+    top:-300px; 
+}
+.pet{
+    color:gray;
+    position: relative;
+    left: 600px;
+    top:-300px; 
+}
+.device{
+    position: relative;
+    top:-200px;
+    left:200px;
+    height: 600px;
+    width: 800px;
+}
+.sup{
+    font-size: 30px;
+    top:-200px;
+    left:500px;
+    position: relative;
+    font-weight: 200px;
+}
+.too{
+    color:gray;
+    position: relative;
+    left: 530px;
+    top:-200px; 
+}
 }
